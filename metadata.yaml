@@ -1,11 +1,14 @@
 _repo: Sammtliche-Werke-1-Die-Abenteuer-Tschitschikows-oder-Die-toten-Seelen-I_54262
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator: &id001
     agent_name: Buek, Otto
     birthdate: 1873
     gutenberg_agent_id: '45416'
     url: http://www.gutenberg.org/2009/agents/45416
+covers:
+- cover_type: archival
+  image_path: 54262-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Gogol, Nikolai Vasilevich
@@ -20,6 +23,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
   editor: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54262#Sammtliche-Werke-1-Die-Abenteuer-Tschitschikows-oder-Die-toten-Seelen-I
 gutenberg_issued: '2017-03-01'
 gutenberg_type: Text
 identifiers:
