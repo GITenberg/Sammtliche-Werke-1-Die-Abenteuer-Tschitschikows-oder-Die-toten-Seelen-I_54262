@@ -1,0 +1,39 @@
+_repo: Sammtliche-Werke-1-Die-Abenteuer-Tschitschikows-oder-Die-toten-Seelen-I_54262
+_version: 0.0.1
+contributor:
+  translator: &id001
+    agent_name: Buek, Otto
+    birthdate: 1873
+    gutenberg_agent_id: '45416'
+    url: http://www.gutenberg.org/2009/agents/45416
+creator:
+  author:
+    agent_name: Gogol, Nikolai Vasilevich
+    aliases:
+    - Gogol, Nikolay Vasilyevich
+    - Gogol, Nikolaj
+    - Гоголь, Николай Васильевич
+    birthdate: 1809
+    deathdate: 1852
+    gutenberg_agent_id: '531'
+    url: http://www.gutenberg.org/2009/agents/531
+    wikipedia: http://en.wikipedia.org/wiki/Nikolai_Gogol
+  editor: *id001
+description: ''
+gutenberg_issued: '2017-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54262'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire'
+- !lcsh 'Humorous stories'
+- !lcsh 'Russia -- Social life and customs -- 1533-1917 -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Swindlers and swindling -- Russia -- Fiction'
+- GITenberg
+title: 'Sämmtliche Werke 1: Die Abenteuer Tschitschikows oder Die toten Seelen I'
+url: http://www.gutenberg.org/ebooks/54262
